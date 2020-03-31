@@ -1,0 +1,15 @@
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\Library\APCD.PeopleLibrary\APCD.PeopleLibrary.V1.0\TestArea\bin\Debug\TestArea.exe
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\Library\APCD.PeopleLibrary\APCD.PeopleLibrary.V1.0\TestArea\bin\Debug\TestArea.pdb
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\Library\APCD.PeopleLibrary\APCD.PeopleLibrary.V1.0\TestArea\bin\Debug\TestArea.xml
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\Library\APCD.PeopleLibrary\APCD.PeopleLibrary.V1.0\TestArea\bin\Debug\APCD.PeopleLibrary.dll
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\Library\APCD.PeopleLibrary\APCD.PeopleLibrary.V1.0\TestArea\bin\Debug\APCD.PeopleLibrary.pdb
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\Library\APCD.PeopleLibrary\APCD.PeopleLibrary.V1.0\TestArea\bin\Debug\APCD.PeopleLibrary.xml
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\Library\APCD.PeopleLibrary\APCD.PeopleLibrary.V1.0\TestArea\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\Library\APCD.PeopleLibrary\APCD.PeopleLibrary.V1.0\TestArea\obj\x86\Debug\TestArea.EmployeeForm.resources
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\Library\APCD.PeopleLibrary\APCD.PeopleLibrary.V1.0\TestArea\obj\x86\Debug\TestArea.MainForm.resources
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\Library\APCD.PeopleLibrary\APCD.PeopleLibrary.V1.0\TestArea\obj\x86\Debug\TestArea.Resources.resources
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\Library\APCD.PeopleLibrary\APCD.PeopleLibrary.V1.0\TestArea\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\Library\APCD.PeopleLibrary\APCD.PeopleLibrary.V1.0\TestArea\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\Library\APCD.PeopleLibrary\APCD.PeopleLibrary.V1.0\TestArea\obj\x86\Debug\TestArea.exe
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\Library\APCD.PeopleLibrary\APCD.PeopleLibrary.V1.0\TestArea\obj\x86\Debug\TestArea.xml
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\Library\APCD.PeopleLibrary\APCD.PeopleLibrary.V1.0\TestArea\obj\x86\Debug\TestArea.pdb
